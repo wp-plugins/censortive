@@ -1,0 +1,1 @@
+This is just a placeholder so we could make sure you have a 'cache' directory to start. You can delete this .txt file.
